@@ -1,0 +1,16 @@
+{
+  "name": "vue2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.12",
+    "vue": "^3.4.15"
+  }
+}
